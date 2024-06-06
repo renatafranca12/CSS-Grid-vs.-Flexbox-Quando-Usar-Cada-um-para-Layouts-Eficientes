@@ -100,5 +100,5 @@ A escolha entre CSS Grid e Flexbox depende das necessidades específicas do seu 
 
 Ferramentas utilizadas Chatgpt e revisões humanas
 Lexica.art para capa
-Remove.bg
+
 
